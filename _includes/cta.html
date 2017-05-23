@@ -1,20 +1,37 @@
 <!-- CTA -->
 <section id="cta" class="wrapper style4">
 	<div class="inner">
-		<header>
+		<header class="major">
 			<h2>Kontak Informasi</h2>
-			<p>Informasi dan pemesanan dapat menghubungi kami.</p>
+			<p>Informasi dan pemesanan dapat menghubungi kami melalui form atau kontak informasi.</p>
+		</header>
+
+	<div class="row">
+		<div class="half">
+			<h3>PB. Great Quality Seed</h3>
 			<ul>
 				<li>Jl. Wiryo Dihardjo 13 Purwokerto - Jawa Tengah</li>
 				<li>Tel./WA. 0822 2017 5779</li>
 				<li>Email. hello@greatquality.id</li>
 			</ul>
-						
-		</header>
-
+		</div>		
+		<div class="half">
+			<form id="contact-form" action="//formspree.io/hello@greatquality.id" method="post">
+				<input type="text" name="Name" placeholder="Name" required>
+				<input type="email" name="Email" placeholder="Email" required>
+				<textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
+				<!-- CONFIG -->
+				<input class="is-hidden" type="text" name="_gotcha">
+				<input type="hidden" name="_subject" value="Subject">
+				<input type="hidden" name="_cc" value="ide.munawar@gmail.com">
+				<!-- /CONFIG -->
+				<input class="submit button special" type="submit" value="Send">
+			</form>
+		</div>
 		<!--ul class="actions vertical">
 			<li><a href="#" class="button fit special">Activate</a></li>
 			<li><a href="#" class="button fit">Learn More</a></li>
 		</ul -->
+</div>		
 	</div>
 </section>

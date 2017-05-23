@@ -83,6 +83,10 @@
 		box-sizing: border-box;
 	}
 
+	.half {
+		width: 48%;
+	}
+
 	.row > * {
 		float: left;
 		-moz-box-sizing: border-box;
@@ -1496,7 +1500,7 @@
 		letter-spacing: 0.225em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: capitalize;
+		text-transform: uppercase;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -3305,6 +3309,7 @@
 				display: block;
 				height: inherit;
 				line-height: inherit;
+				text-transform: capitalize;
 			}
 
 				@media screen and (max-width: 736px) {
@@ -3441,6 +3446,7 @@
 			padding: 0.35em 1em;
 			position: relative;
 			z-index: 1;
+			text-transform: capitalize;
 		}
 
 			#banner h2:before, #banner h2:after {
@@ -3555,7 +3561,7 @@
 			    top: 25%;
 			}
 		}
-			
+
 		@media screen and (max-width: 736px) {
 
 			#banner {
@@ -3576,6 +3582,14 @@
 					display: none;
 				}
 
+		}
+
+		@media screen and (max-width: 640px) {
+			#banner .logo {
+			    left: 41%;
+			    position: absolute;
+			    top: 1%;
+			}
 		}
 
 		@media screen and (max-width: 480px) {
@@ -3628,7 +3642,7 @@
 
 
 	.product {
-		width: 160px;
+		width: 200px;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;		
@@ -3645,7 +3659,7 @@
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
+		display: block;
 		max-width: 45em;
 	}
 
@@ -3655,7 +3669,7 @@
 			-ms-order: 1;
 			order: 1;
 			padding-right: 3em;
-			width: 70%;
+			width: 100%;
 		}
 
 			#cta .inner header p {
@@ -3669,7 +3683,11 @@
 			order: 2;
 			width: 30%;
 		}
+		#cta .is-hidden {
+			display: none;
+		}
 
+		
 		@media screen and (max-width: 980px) {
 
 			#cta .inner {
@@ -3723,7 +3741,9 @@
 			color: inherit;
 			letter-spacing: 0.225em;
 			/*text-transform: uppercase;*/
+			left: 11%;
 			top: 0;
+			width: 75%;
 		}
 
 			#main > header p a {
