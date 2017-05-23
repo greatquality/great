@@ -3638,7 +3638,7 @@
 		width: 100%;
     	height: auto;
 	}
-	
+
 /* CTA */
 
 	#cta .inner {
@@ -3722,7 +3722,7 @@
 		#main > header p {
 			color: inherit;
 			letter-spacing: 0.225em;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 			top: 0;
 		}
 
