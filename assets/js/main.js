@@ -118,6 +118,10 @@ $contactForm.submit(function(e) {
 			$contactForm.append('<div class="alert alert--error">Ops, there was an error.</div>');
 		}
 	});
+	$( '#contact-form' ).each(function(){
+	    this.reset();
+	});
+	
 });
 
 })(jQuery);
