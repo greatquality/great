@@ -3633,6 +3633,12 @@
 		margin-left: auto;
 		margin-right: auto;		
 	}
+
+	.img-responsive {
+		width: 100%;
+    	height: auto;
+	}
+	
 /* CTA */
 
 	#cta .inner {
