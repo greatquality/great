@@ -1,0 +1,14 @@
+image: ruby:2.3
+
+pages:
+  stage: build
+  script:
+  - gem install jekyll
+  - jekyll build -d public
+  - gem build great.gemspec
+  artifacts:
+    paths:
+    - public
+    - "great-*.gem"
+  only:
+  - master
