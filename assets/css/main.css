@@ -87,9 +87,6 @@
 		width: 48%;
 	}
 
-	.half:hover {
-		background-color: #006d47;
-	}
 	.row > * {
 		float: left;
 		-moz-box-sizing: border-box;
@@ -2677,7 +2674,10 @@
 			background-color: #028458;
 			color: #c7ebe8;
 		}
-
+		
+		.wrapper.style1 .half:hover {
+			color: #fff;
+		}
 			.wrapper.style1 strong, .wrapper.style1 b {
 				color: #ffffff;
 			}
