@@ -1205,7 +1205,9 @@
 		.row {
 			margin: 0 0 -1px -1.5em;
 		}
-
+		.half {
+			width: 100%;
+		}
 		.row.uniform > * {
 			padding: 1.5em 0 0 1.5em;
 		}
