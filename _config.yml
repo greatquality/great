@@ -1,13 +1,12 @@
 # Site settings
-logo: logo.png
-company: PB. Great Quality Seed
 title: Great-Q Seed
-slogan: Produsen dan penyedia benih padi berkualitas
+company: PB. Great Quality Seed
+slogan: Produsen dan penyedia benih berkualitas
+logo: logo.png
 email: hello@greatquality.id
-description: Produsen dan penyedia benih padi berkualitas, terjaga kemurnian dan viabilitasnya.
+description: Produsen dan penyedia benih berkualitas, inpago unsoed 1, benih unggul, benih padi, produksi tnggi, padi aromatik.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -15,11 +14,14 @@ tiles-count: 3
 
 # Misc settings
 featured-image-source:
+disqus_shortname: greatqseed
+search: true
+share: true
 
 # Social settings
 500px_url:
 facebook_url: https://facebook.com/greatqseed
-github_url: 
+github_url:
 gitlab_url: 
 googleplus_url: 
 instagram_url: https://instagram.com/greatqseed
@@ -30,3 +32,8 @@ twitter_url: https://twitter.com/greatqseed
 
 # Build settings
 markdown: kramdown
+
+author:
+  name: Munawar
+  picture: mun.jpg
+  email: munawar@greatquality.id

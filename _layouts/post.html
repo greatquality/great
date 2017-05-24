@@ -1,9 +1,5 @@
 <!DOCTYPE HTML>
-<!--
-	Spectral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <html>
 
 {% include head.html %}
@@ -23,8 +19,19 @@
 
                 {{ content }}
 
+                {% if site.share %}
+                    {% include share.html %}
+                {% endif %}
+
+                    {% include signoff.html %} 
+                    
+                {% if site.disqus_shortname and page.comments == true %}
+                    <div id="disqus_thread"></div><!-- /#disqus_thread -->
+                {% endif %}
+
             </div>
         </section>
+
     </article>
 
     {% include footer.html %}

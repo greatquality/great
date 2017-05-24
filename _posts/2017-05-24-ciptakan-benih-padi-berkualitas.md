@@ -6,9 +6,17 @@ description: |-
   <p>
   Ketiga varietas tersebut adalah Inbrida Padi Gogo (Inpago) Unsoed 1, Unsoed 9, dan Unsoed 136 yang telah mendapatkan hak paten. Padi pertama yang dilepas ke publik adalah varian Unsoed 1, dilanjutkan oleh Unsoed 9, dan Unsoed 136.</p>
 image: padi_inpago_unsoed_1.jpg
+comments: true
+share: true
+tags:
+- inpago unsoed 1
+- benih padi
+- padi unggul
+- padi aromatik
+- tahan wereng
 ---
 
-Jumlah penduduk Indonesia terus bertambah, sementara lahan pertanian kian menyempit. Hal ini tentunya menjadi masalah tersendiri bagi ketersediaan pangan di Indonesia. 
+Kebutuhan benih padi berkualitas terus meningkat . Ketersediaan pangan terutama beras menjadi masalah bagi masyarakat.  Seiring dengan jumlah penduduk Indonesia terus bertambah, sementara lahan pertanian kian menyempit. Hal ini tentunya menjadi masalah tersendiri bagi ketersediaan pangan di Indonesia. 
 
 Jika tak diatasi, masalah bakal makin terasa pada 2020, yakni saat jumlah penduduk Indonesia diprediksi mencapai 288 juta. Karenanya, penyediaan pangan menjadi satu hal penting untuk diatasi.
 
@@ -25,7 +33,7 @@ Padi yang lolos seleksi menjadi genotipe unggul bermutu tinggi dari segi aroma d
 Selain itu, dipilih juga varietas padi Danau Tempe lantaran memiliki kultivar hasil tinggi dan tahan terhadap kekeringan.
 
 # **Seleksi Benih Padi**
-
+<img src="/assets/images/prof_totok.jpg" alt="Prof Totok Agung" class="img-responsive">
 Setelah semuanya diseleksi dan dikumpulkan, dibentuklah populasi dasar untuk seleksi pedigree pada tahun 2000. Pada masa itu, dilakukan pula studi genetik mulai dari aromatik, berdaya hasil tinggi, dan rasa nasi pulen.
 
 "Dari hasil seleksi ini diperoleh 50 galur yang diuji di lapangan. Dari sana, ada 19 galur yang memiliki hasil tinggi dan aromatik," kata Totok sebagaimana dikutip dari buku Sumber Inspirasi Indonesia: 20 Karya Unggulan Teknologi Anak Bangsa yang diterbitkan Kementerian Riset, Teknologi, dan Pendidikan Tinggi.

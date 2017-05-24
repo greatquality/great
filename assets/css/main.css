@@ -3654,6 +3654,35 @@
 		width: 100%;
     	height: auto;
 	}
+	.post-avatar {
+	    margin: 0 auto 12px;
+	    max-width: 150px;
+	}
+	.img-circle {
+	    border-radius: 50%;
+	}
+	.post-share {
+	    margin-bottom: 48px;
+	}
+	.social-mini {
+	    list-style-type: none;
+	    margin: 0;
+	    padding: 0 0 24px;
+	}
+	.social-mini li {
+	    display: inline-block;
+	    font-size: 16px;
+	    padding: 0 12px;
+	}	
+	.post-author {
+	    margin-bottom: 72px;
+	}
+	.text-center {
+	    text-align: center;
+	}
+	#disqus_thread {
+	    margin-top: 2em;
+	}
 
 /* CTA */
 
