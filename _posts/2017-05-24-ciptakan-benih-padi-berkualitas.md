@@ -3,8 +3,10 @@ title: Ciptakan benih padi berkualitas
 layout: post
 description: |-
   Prof. Totok Agung bersama timnya melakukan riset dengan menciptakan tiga varietas padi gogo dengan aroma dan rasa yang enak, serta dibarengi dengan kualitas tinggi.
-  <p>
-  Ketiga varietas tersebut adalah Inbrida Padi Gogo (Inpago) Unsoed 1, Unsoed 9, dan Unsoed 136 yang telah mendapatkan hak paten. Padi pertama yang dilepas ke publik adalah varian Unsoed 1, dilanjutkan oleh Unsoed 9, dan Unsoed 136.</p>
+  <p />
+  Ketiga varietas tersebut adalah Inbrida Padi Gogo (Inpago) Unsoed 1, Unsoed 9, dan Unsoed 136 yang telah mendapatkan hak paten. Padi pertama yang dilepas ke publik adalah varian Unsoed 1, dilanjutkan oleh Unsoed 9, dan Unsoed 136.
+  <p />
+  Setelah semuanya diseleksi dan dikumpulkan, dibentuklah populasi dasar untuk seleksi pedigree pada tahun 2000. Pada masa itu, dilakukan pula studi genetik mulai dari aromatik, berdaya hasil tinggi, dan rasa nasi pulen.
 image: padi_inpago_unsoed_1.jpg
 comments: true
 share: true
