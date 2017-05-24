@@ -82,11 +82,9 @@
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
 	}
-
 	.half {
 		width: 48%;
 	}
-
 	.row > * {
 		float: left;
 		-moz-box-sizing: border-box;
@@ -2674,7 +2672,7 @@
 			background-color: #028458;
 			color: #c7ebe8;
 		}
-		
+
 		.wrapper.style1 .half:hover {
 			color: #fff;
 		}
