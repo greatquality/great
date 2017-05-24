@@ -40,6 +40,10 @@
 <!--[if lte IE 8]><script src="{{ "/assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
 <script src="{{ "/assets/js/main.js" | absolute_url }}"></script>
 
+{% if page.comments %}
+{% include disqus_comments.html %}
+{% endif %}
+
 </body>
 
 </html>
