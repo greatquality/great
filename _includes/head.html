@@ -1,11 +1,16 @@
 <head>
 	<title>{% if page.title == 'Home' %}{{ site.title | escape }} - {{ site.slogan }}{% else %}{{ page.title | escape }} - {{ site.title }}{% endif %}</title>
 	<meta charset="utf-8" />
-  	<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta property="og:title" content="{% if page.title == 'Home' %}{{ site.title | escape }} - {{ site.slogan }}{% else %}{{ page.title | escape }} - {{ site.title }}{% endif %}" />
+  	<meta property="og:description" name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 	{% if page.tags %}
 	<meta name="keywords" content="{{ page.tags | join: ', ' }}">
-	{% endif %}  	
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	{% endif %}
+	<meta property="og:url" content="{{ site.url }}" />
+	<meta property="og:image" content="{{ site.url }}/assets/images/inpago_unsoed_1.png" />
+	<meta property="og:site_name" content="{{ site.title }}" />
+	<meta property="og:type" content="website" />  	
 
 	<!--[if lte IE 8]><script src="{{ "/assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
