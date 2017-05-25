@@ -35,7 +35,8 @@ Padi yang lolos seleksi menjadi genotipe unggul bermutu tinggi dari segi aroma d
 Selain itu, dipilih juga varietas padi Danau Tempe lantaran memiliki kultivar hasil tinggi dan tahan terhadap kekeringan.
 
 # **Seleksi Benih Padi**
-<img src="/assets/images/prof_totok.jpg" alt="Prof Totok Agung" class="img-responsive">
+![Prof Totok Agung](/assets/images/prof_totok.jpg "Prof Totok Agung, kegiatan seleksi untuk perakitan varietas")
+{:.tofigure}
 Setelah semuanya diseleksi dan dikumpulkan, dibentuklah populasi dasar untuk seleksi pedigree pada tahun 2000. Pada masa itu, dilakukan pula studi genetik mulai dari aromatik, berdaya hasil tinggi, dan rasa nasi pulen.
 
 "Dari hasil seleksi ini diperoleh 50 galur yang diuji di lapangan. Dari sana, ada 19 galur yang memiliki hasil tinggi dan aromatik," kata Totok sebagaimana dikutip dari buku Sumber Inspirasi Indonesia: 20 Karya Unggulan Teknologi Anak Bangsa yang diterbitkan Kementerian Riset, Teknologi, dan Pendidikan Tinggi.

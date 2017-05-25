@@ -3432,6 +3432,7 @@
 		    left: 45%;
 		    position: absolute;
 		    top: 10%;
+		    width: 120px;
 		}
 
 		#banner h2 {
@@ -3643,6 +3644,10 @@
 		opacity: 1;
 	}
 
+	.img-responsive {
+		width: 100%;
+    	height: auto;
+	}
 
 	.product {
 		width: 200px;
@@ -3651,9 +3656,11 @@
 		margin-right: auto;		
 	}
 
-	.img-responsive {
-		width: 100%;
-    	height: auto;
+	.caption {
+		bottom: 0;
+		text-align: center;
+		margin-bottom: 20px;
+		font-style: italic;
 	}
 	.post-avatar {
 	    margin: 0 auto 12px;

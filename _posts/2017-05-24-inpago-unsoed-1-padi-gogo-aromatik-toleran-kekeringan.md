@@ -25,7 +25,8 @@ Petani tanpa harus membayar royalty yang menjadi kewajibannya. Bahkan Unsoed men
 
 “Ini adalah bentuk komitmen Unsoed dalam membantu memajukan pengetahuan dan keterampilan petani.  Artinya, Padi Gogo Aromatik Inpago Unsoed 1 akan memberikan harapan baru petani, karena petani tidak harus membayar royalti,” kata Anisur.
 
-<img src="/assets/images/bupati_tasdi.jpg" alt="Bupati Tasdi" class="img-responsive">
+![Bupati Tasdi](/assets/images/bupati_tasdi.jpg "Bupati Tadi bersama muspida dalam panen perdana")
+{:.tofigure}
 Bupati Purbalingga Tasdi menyambut baik kerjasama Unsoed dengan para petani di Purbalingga dalam upaya ketahanan pangan. Bupati juga mengapreasiasi Tentara Nasional Indonesia (TNI) melalui Kodim yang ikut mengawal budidaya tanam padi milik petani mulai dari penanaman, pemberantasan hama penyakit hingga panen.
 
 “Bung Karno pernah mengatakan, persoalan pertanian adalah persoalan hidup dan matinya bangsa. Oleh karenanya persoalan pertanian menjadi tanggungjawab semua pihak, termasuk pihak akademisi seperti Unsoed, TNI dan pihak lainnya,” kata Tasdi.

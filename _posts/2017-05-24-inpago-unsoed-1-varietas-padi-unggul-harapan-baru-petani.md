@@ -23,7 +23,8 @@ Alief Einstein, Humas Program Pasca Sarjana Unsoed mengatakan, walaupun Inpago U
 
 Salah satu kelompok tani yang telah bekerjasama dengan Unsoed adalah Gapoktan Sri Waluyo Tani, desa Karangtengah, Kecamatan Kemangkon, Purbalingga. Bekerja sama dengan Tim Unit Pengelola Benih Sumber Padi Gogo Aromatik Fakultas Pertanian Unsoed yang diketuai oleh Prof Ir Totok Agung, DH, MP, PhD, Gapoktan Sri Waluyo Tani saat ini memproduksi benih bersertifikat Inpago Unsoed 1 pada musim tanam I.
 
-<img src="/assets/images/mashuri.jpg" alt="Prof Totok Agung bersama Pak Mashuri" class="img-responsive">
+![Prof Totok Agung](/assets/images/mashuri.jpg "Prof Totok Agung bersama Pak Mashuri")
+{:.tofigure}
 Ketua Gapoktan Mashuri dan Ketua Kelompok Tani  Makmur Sutriyo dan para petani menyampaikan sangat puas dengan performa padi Inpago Unsoed 1 di lapang. Mashuri dan para petani penangkar menyukai Inpago Unsoed 1 karena anakannya banyak dan hampir semuanya produktif, malainya panjang, dan jumlah gabah per malainya banyak.
 
 Keistimewaan yang lain, daun benderanya yang tetap hijau meskipun kekurangan pupuk dan air, serta relatif lebih tahan terhadap serangan hama dan penyakit.
