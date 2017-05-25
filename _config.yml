@@ -18,6 +18,21 @@ disqus_shortname: greatqseed
 search: true
 share: true
 
+# Gems used
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+
 # Social settings
 500px_url:
 facebook_url: https://facebook.com/greatqseed
