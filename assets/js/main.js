@@ -97,7 +97,7 @@
 
 	});
 
-
+/* formspree */
 var $contactForm = $('#contact-form');
 $contactForm.submit(function(e) {
 	e.preventDefault();
@@ -136,5 +136,6 @@ $('.tofigure').children('img').each(function() {
 
 /*===== responsive image ===*/
 $("img").addClass("img-responsive")
+
 
 })(jQuery);

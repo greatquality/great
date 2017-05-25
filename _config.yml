@@ -48,6 +48,12 @@ twitter_url: https://twitter.com/greatqseed
 # Build settings
 markdown: kramdown
 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+  
+# author
 author:
   name: Munawar
   picture: mun.jpg
