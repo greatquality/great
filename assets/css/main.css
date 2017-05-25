@@ -3946,3 +3946,18 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+/* disqus override */
+#disqus_thread {
+     position: relative;
+}
+#disqus_thread:after {
+     content: "";
+     display: block;
+     height: 55px;
+     width: 100%;
+     position: absolute;
+     bottom: 0;
+     background: white;
+}
