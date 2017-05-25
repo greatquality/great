@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+
+<html>
+{% include head.html %}
+
+<body>
+    {% include header.html %}
+
+    <!-- Main -->
+    <article id="main">
+        <header{% if page.image %} style="background-image: url('{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}');"{% endif %}>
+            <h2>{{ page.title }}</h2>
+            <p>{{ page.description }}</p>
+        </header>
+        <section class="wrapper style5">
+            <div class="inner">
+
+                {% for tag in site.categories %} 
+                <h2 id="{{ tag[0] }}" style="color: #c91b26">{{ tag[0] | capitalize }}</h2>
+                <ul class="post-list">
+                  {% assign pages_list = tag[1] %}
+                    
+                {% for post in pages_list %}
+                  {% if post.title != null %}
+                    {% if group == null or group == post.group %}
+                  <li>
+                    <a href="{{ site.url }}{{ post.url }}"><h4>{{ post.title }}</h4></a>
+                    <img src="/assets/images/{{ post.image }}" class="thumb" />  {{ post.description }}    
+                  </li>
+                    {% endif %}
+                  {% endif %}
+                {% endfor %}
+
+                {% assign pages_list = nil %}
+                {% assign group = nil %}
+
+                </ul>
+                {% endfor %}
+
+            </div>
+        </section>
+    </article>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

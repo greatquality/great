@@ -1,6 +1,7 @@
 ---
 title: 'Inpago Unsoed 1: Varietas Padi Unggul Harapan Baru Petani'
 layout: post
+category: "Benih Unggul"
 description: Padi gogo Aromatik Inpago Unsoed 1 telah dipatenkan Faperta Unsoed.  Hak
   Paten untuk tanaman yang disebut hak PVT (Hak Perlindungan Tanaman) bertujuan untuk
   melindungi penemu (inventor) dari plagiasi, pencurian, dan pelanggaran lain yang

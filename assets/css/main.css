@@ -3649,6 +3649,11 @@
     	height: auto;
 	}
 
+	.thumb {
+		width: 120px;
+		float: left;
+		margin-right: 20px;
+	}
 	.product {
 		width: 200px;
 		display: block;
@@ -3662,6 +3667,15 @@
 		margin-bottom: 20px;
 		font-style: italic;
 	}
+
+	ul.post-list {
+		margin-left: -25px;
+	}
+	ul.post-list li {
+		list-style: none;
+		display: block;
+	}
+
 	.post-avatar {
 	    margin: 0 auto 12px;
 	    max-width: 150px;

@@ -50,8 +50,8 @@ markdown: kramdown
 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
+google_analytics: UA-99929854-1
+google_verify: YmlyiAKjdKXPMdwYMQJ6140tBMLW6-5tidL5-tMeqek
   
 # author
 author:

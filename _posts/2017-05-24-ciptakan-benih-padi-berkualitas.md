@@ -1,6 +1,7 @@
 ---
 title: Ciptakan benih padi berkualitas
 layout: post
+category: "Unsoed 1"
 description: |-
   Prof. Totok Agung bersama timnya melakukan riset dengan menciptakan tiga varietas padi gogo dengan aroma dan rasa yang enak, serta dibarengi dengan kualitas tinggi.
   <p />
