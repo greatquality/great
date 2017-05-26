@@ -3674,6 +3674,7 @@
 	ul.post-list li {
 		list-style: none;
 		display: block;
+		margin-bottom: 20px;
 	}
 
 	ul.tag-box {
