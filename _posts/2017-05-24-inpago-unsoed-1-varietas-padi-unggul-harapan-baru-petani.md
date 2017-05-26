@@ -12,7 +12,7 @@ share: true
 tags:
 - inpago unsoed 1
 - padi gogo aromatik
-- pad unggul baru
+- padi unggul baru
 - benih padi
 ---
 
