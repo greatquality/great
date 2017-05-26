@@ -19,15 +19,30 @@
 
                 {{ content }}
 
-                {% if site.share %}
-                    {% include share.html %}
-                {% endif %}
+                    {% assign tagsize = page.tags.size %}
+                    {% if tagsize != 0 %}
+                        <div class="entry-tags text-center">
+                            <i class="fa fa-tags"></i>&nbsp;
+                                Tagged with 
+                            {% for tag in page.tags %}
+                                <a href="{{ site.url }}/tags/index.html#{{ tag | cgi_encode }}" data-toggle="tooltip" title="Posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>
 
-                    {% include signoff.html %} 
+                                {% unless forloop.last %}
+                                &nbsp;&bull;&nbsp;
+                                {% endunless %}
+                            {% endfor %}
+                        </div>
+                    {% endif %}
                     
-                {% if site.disqus_shortname and page.comments == true %}
-                    <div id="disqus_thread"></div><!-- /#disqus_thread -->
-                {% endif %}
+                    {% if site.share %}
+                        {% include share.html %}
+                    {% endif %}
+
+                        {% include signoff.html %} 
+                        
+                    {% if site.disqus_shortname and page.comments == true %}
+                        <div id="disqus_thread"></div><!-- /#disqus_thread -->
+                    {% endif %}
 
             </div>
         </section>

@@ -3676,6 +3676,22 @@
 		display: block;
 	}
 
+	ul.tag-box li {
+		list-style: none;
+		display: inline;
+		padding-left: 0;
+	}
+	.tag-box a {
+	    background-color: #e6e6e6;
+	    border-radius: 4px;
+	    margin: 2px;
+	    padding: 4px 6px;
+	    text-decoration: none;
+	}
+	.tag-box a span {
+	    font-size: 14px;
+	    vertical-align: super;
+	}		
 	.post-avatar {
 	    margin: 0 auto 12px;
 	    max-width: 150px;
