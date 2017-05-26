@@ -3676,6 +3676,9 @@
 		display: block;
 	}
 
+	ul.tag-box {
+		padding-left: 0;
+	}
 	ul.tag-box li {
 		list-style: none;
 		display: inline;
