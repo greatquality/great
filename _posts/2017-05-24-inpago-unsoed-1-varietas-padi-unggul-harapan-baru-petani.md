@@ -14,6 +14,7 @@ tags:
 - padi gogo aromatik
 - padi unggul baru
 - benih padi
+- great-q seed
 ---
 
 Fakultas Pertanian Unsoed Purwokerto mempatenkan varietas padi gogo Aromatik Inpago Unsoed 1.  Hak Paten untuk tanaman yang disebut hak PVT (Hak Perlindungan Tanaman) bertujuan untuk melindungi penemu (inventor) dari plagiasi, pencurian, dan pelanggaran lain yang merugikan penemu secara ekonomi.

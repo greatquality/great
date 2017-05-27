@@ -17,6 +17,7 @@ tags:
 - padi unggul
 - padi aromatik
 - tahan wereng
+- great-q seed
 ---
 
 Kebutuhan benih padi berkualitas terus meningkat . Ketersediaan pangan terutama beras menjadi masalah bagi masyarakat.  Seiring dengan jumlah penduduk Indonesia terus bertambah, sementara lahan pertanian kian menyempit. Hal ini tentunya menjadi masalah tersendiri bagi ketersediaan pangan di Indonesia. 

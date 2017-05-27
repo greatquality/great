@@ -13,6 +13,7 @@ tags:
 - benih padi
 - padi unggul
 - tahan wereng
+- great-q seed
 image: tahan_kering.jpg
 ---
 
