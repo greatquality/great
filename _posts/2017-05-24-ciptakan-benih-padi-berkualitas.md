@@ -19,7 +19,8 @@ tags:
 - tahan wereng
 - great-q seed
 ---
-Kebutuhan benih padi berkualitas terus meningkat, terutama padi Inpago Unsoed 1 . Ketersediaan pangan terutama beras menjadi masalah bagi masyarakat.  Seiring dengan jumlah penduduk Indonesia terus bertambah, sementara lahan pertanian kian menyempit. Hal ini tentunya menjadi masalah tersendiri bagi ketersediaan pangan di Indonesia. 
+
+Kebutuhan benih padi berkualitas terus meningkat, terutama padi Inpago Unsoed 1. Ketersediaan pangan terutama beras menjadi masalah bagi masyarakat.  Seiring dengan jumlah penduduk Indonesia terus bertambah, sementara lahan pertanian kian menyempit. Hal ini tentunya menjadi masalah tersendiri bagi ketersediaan pangan di Indonesia. 
 
 Jika tak diatasi, masalah bakal makin terasa pada 2020, yakni saat jumlah penduduk Indonesia diprediksi mencapai 288 juta. Karenanya, penyediaan pangan menjadi satu hal penting untuk diatasi.
 
