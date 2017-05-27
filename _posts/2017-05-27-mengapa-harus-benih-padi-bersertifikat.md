@@ -17,8 +17,7 @@ tags:
 - inpago unsoed 1
 - great-q seed
 ---
-
-Benih padi bersertifikat dari varietas unggul baru (VUB) diperlukan petani karena potensial untuk meningkatkan produktivitas usaha tani. Varietas Inpago Unsoed 1 merupakan varietas unggul baru yang sanagt potensial dikembangkan di wilayah Indonesia, terutama lahan suboptimal seperti lahan tadah hujan, lahan kering dan lahan bukaan baru. Pemilihan varietas yang tepat akan meningkatkan produktivitas lahan dan pendapatan petani. Penggunaan sarana produksi lainnya optimal, seperti pupuk, pestisida, irigasi dan tenaga kerja, penggunaan benih unggul akan sangat menunjang usaha tani padi. Produktivitas lahan yang tinggi bisa meningkatkan pendapatan petani dan hal ini diperlukan karena harga produk nonpertanian
+Varietas Inpago Unsoed 1 merupakan varietas unggul baru yang sanagt potensial dikembangkan di wilayah Indonesia, terutama lahan suboptimal, tadah hujan, kering dan lahan bukaan baru. Benih padi bersertifikat dari varietas unggul baru (VUB) diperlukan petani karena potensial untuk meningkatkan produktivitas usaha tani. Pemilihan varietas yang tepat akan meningkatkan produktivitas lahan dan pendapatan petani. Penggunaan sarana produksi lainnya optimal, seperti pupuk, pestisida, irigasi dan tenaga kerja, penggunaan benih unggul akan sangat menunjang usaha tani padi. Produktivitas lahan yang tinggi bisa meningkatkan pendapatan petani dan hal ini diperlukan karena harga produk nonpertanian
 juga terus meningkat. Petani akan tetap tertarik menanam padi dengan menggunakan benih unggul jika usaha taninya relatif menguntungkan dibanding usaha tani tanaman pangan lainnya.
 
 ![Varietas npago Unsoed 1, malai panjang dan bernas](/assets/images/malai_panjang.jpg 'Padi Varieats Inpago Unsoed 1, malai panjang dan bernas')
