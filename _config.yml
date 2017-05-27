@@ -21,7 +21,6 @@ share: true
 # Gems used
 gems:
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-sitemap
 
 # Archives configuration
@@ -46,6 +45,7 @@ sitemap:
         - "/feed/index.xml"
     include_posts:
         - "/index.html"
+
 
 # Social settings
 500px_url:

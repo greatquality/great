@@ -15,6 +15,7 @@
         <section class="wrapper style5">
             <div class="inner">
 
+
                 {% for tag in site.categories %} 
                 <h2 id="{{ tag[0] }}" style="color: #c91b26">{{ tag[0] | capitalize }}</h2>
                 <ul class="post-list">
@@ -23,10 +24,12 @@
                 {% for post in pages_list %}
                   {% if post.title != null %}
                     {% if group == null or group == post.group %}
-                  <li>
-                    <a href="{{ site.url }}{{ post.url }}"><h4>{{ post.title }}</h4></a>
-                    <img src="/assets/images/{{ post.image }}" class="thumb" />  {{ post.description }}    
-                  </li>
+
+                          <li>
+                            <a href="{{ site.url }}{{ post.url }}"><h4>{{ post.title }}</h4></a>
+                            <img src="/assets/images/{{ post.image }}" class="thumb" />  {{ post.description }}    
+                          </li>
+
                     {% endif %}
                   {% endif %}
                 {% endfor %}
@@ -36,6 +39,7 @@
 
                 </ul>
                 {% endfor %}
+
 
             </div>
         </section>
