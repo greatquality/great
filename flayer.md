@@ -4,10 +4,11 @@ type: photo
 title: "Flayer"
 description: "Kumpulan flayer dan media promosi Great-Q Seed."
 category: gallery
-tags: [flayer, promosi, publikas, images, gallery]
+tags: [flayer, promosi, publikasi, inpago unsoed 1, images, gallery, great-q seed]
 comments: true
 mathjax: 
 ---
+
 Media promosi dan publikasi PB. Great Quality Seed dalam memasyarakatkan benih padi Inpago Unsoed 1 ke seluruh Indonesia.
 
 <figure class="third">

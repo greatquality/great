@@ -4481,7 +4481,8 @@ img.mfp-img {
 }
 
 .mfp-title {
-  line-height: 18px;
+  line-height: 16px;
+  font-size: 12px;
   color: #f3f3f3;
   text-align: left;
 }
