@@ -1,7 +1,7 @@
 # Site settings
 title: Great-Q Seed
 company: PB. Great Quality Seed
-slogan: Produsen dan penyedia benih berkualitas
+slogan: Produsen dan penyedia benih berkualitas Inpago Unsoed 1
 logo: logo.png
 email: hello@greatquality.id
 description: Produsen dan penyedia benih berkualitas, inpago unsoed 1, benih unggul, benih padi, produksi tinggi, padi aromatik.
@@ -37,7 +37,7 @@ jekyll-archives:
     # day: '/:year/:month/:day/'
     tag: '/archive/tag/:name/'
     category: '/archive/category/:name/'
-    
+
 sitemap:
     file: "/sitemap.xml"
     exclude:
