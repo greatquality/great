@@ -23,3 +23,8 @@ Proses produksi benih juga melibatkan para petani dan kelompok tani untuk memuda
 Great-Q Seed memasuki pasar benih padi dengan membawa brand "Cap Gunung Slamet". Brand ini telah memudahkan benih padi diingat oleh petani dan dimana benih ini dihasilkan. Gunung Slamet sebagai ciri khas benih berkualitas tinggi, pengawasan ketat untuk menjaga kemurnian dan viabilitasnya.
 ![Benih Cap Gunung Slamet](/assets/images/benih.jpg "Benih Cap Gunung Slamet")
 {:.tofigure}
+
+**PB. Great Quality Seed**
+Jl. Wiryo Dihardjo 13 Purwokerto - Jawa Tengah
+Tel./WA. 0822 2017 5779
+Email. hello@greatquality.id
