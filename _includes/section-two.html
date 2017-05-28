@@ -3,7 +3,7 @@
 	{% for post in site.posts limit:site.tiles-count %}{% if site.tiles-source == 'posts' %}
 
 	<section class="spotlight">
-		<div class="image">{% if post.image %}<img src="{% if site.featured-image-source %}{{ post.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ post.image }}{% endif %}" alt="" />{% endif %}</div>
+		<div class="image">{% if post.image %}<img src="{% if site.featured-image-source %}{{ post.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ post.image }}{% endif %}" alt="" />{% endif %}{% if post.video %}{% assign video_embed = post.video | remove:'https://youtu.be/' %}<iframe width="540" height="295" src="//www.youtube.com/embed/{{ video_embed }}?theme=light&amp;color=white" frameborder="0" allowfullscreen> </iframe>{% endif %}</div>
 		<div class="content">
 			<h2><a href="{{ post.url | relative_url }}" class="link">{{ post.title }}</a></h2>
 			<p>{{ post.description }}</p>

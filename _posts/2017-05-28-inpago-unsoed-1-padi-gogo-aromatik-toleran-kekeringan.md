@@ -1,7 +1,7 @@
 ---
 title: 'Inpago Unsoed 1: Padi Gogo Aromatik Toleran Kekeringan'
 layout: post
-category: "Artikel"
+category: Artikel
 description: |-
   Padi varietas Inpago Unsoed 1 merupakan padi gogo aromatik  yang toleran terhadap kekeringan, tahan terhadap penyakit blas ras 133 dan agak tahan wereng. <p />
   Varietas ini sangat sesuai ditanam pada musim sadon atau musim tanam II, peralihan dari musim hujan ke musim kemarau. Fakultas Pertanian Universitas Jendral Soedirman (Unsoed) Purwokerto berhasil menemukan varietas padi gogo unggul yang tahan terhadap kekeringan.

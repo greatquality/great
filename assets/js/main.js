@@ -124,6 +124,12 @@ $contactForm.submit(function(e) {
 
 });
 
+// FitVids options
+$(function () {
+  $("article").fitVids();
+});
+
+
 /*=================== Figure Caption ===================*/
 $('.tofigure').each(function() {
     $(this).replaceWith($('<figure class="img-with-caption tofigure">' + this.innerHTML + '</figure>'));

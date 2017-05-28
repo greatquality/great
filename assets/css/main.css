@@ -3677,7 +3677,24 @@
 		display: block;
 		margin-bottom: 20px;
 	}
-
+	ul.post-list li .yt-btn {
+	    float: left;
+	    margin-right: -102px;
+	    padding-left: 46px;
+	    position: relative;
+	    top: 33px;
+	    width: 80px;
+	}
+	.ytp-large-play-button-bg {
+	    fill: #1f1f1f;
+	    fill-opacity: 0.81;
+	    transition: fill 0.1s cubic-bezier(0.4, 0, 1, 1) 0s, fill-opacity 0.1s cubic-bezier(0.4, 0, 1, 1) 0s;
+	}
+	.ytp-large-play-button-bg:hover {
+	    fill: #ff0000;
+	    fill-opacity: 0.81;
+	    transition: fill 0.1s cubic-bezier(0.4, 0, 1, 1) 0s, fill-opacity 0.1s cubic-bezier(0.4, 0, 1, 1) 0s;
+	}	
 	ul.tag-box {
 		padding-left: 0;
 	}

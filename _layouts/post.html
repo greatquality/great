@@ -16,7 +16,11 @@
         </header>
         <section class="wrapper style5">
             <div class="inner">
-
+                {% if page.video %}
+                        {% assign video_embed = page.video | remove:'https://youtu.be/' %}
+                        <iframe width="940" height="529" src="//www.youtube.com/embed/{{ video_embed }}?theme=light&amp;color=white" frameborder="0" allowfullscreen> </iframe>
+                {% endif %}
+                
                 {{ content }}
 
                     {% assign tagsize = page.tags.size %}
