@@ -141,7 +141,7 @@ $('.tofigure').children('img').each(function() {
 });
 
 /*===== responsive image ===*/
-$("img").addClass("img-responsive")
+$("img").addClass("img-responsive");
 
 // Magnific-Popup options
 $(document).ready(function () {
