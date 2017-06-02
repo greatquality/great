@@ -14,6 +14,7 @@ tags:
 - inpago unsoed 1
 - great-q seed
 image: wereng_batang_coklat.jpg
+category: Artikel
 ---
 
 Hama wereng batang coklat (WBC) menjadi hama yang menakutkan bagi petani padi. Serangga kecil ini menghisap cairan batang tumbuhan padi dan sekaligus juga menyebarkan beberapa virus , terutama *reovirus* yang menyebabkan penyakit *tungro*. 
