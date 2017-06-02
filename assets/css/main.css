@@ -3745,6 +3745,7 @@
 	    margin-top: 2em;
 	}
 
+
 /* CTA */
 
 	#cta .inner {
@@ -4014,7 +4015,15 @@
      background: white;
 }
 
-
+@media screen and (max-width: 430px) {
+	#disqus_thread::after {
+	    background: white none repeat scroll 0 0;
+	    bottom: 0;
+	    content: "";
+	    display: block;
+	    height: 65px;
+	}
+}
 /* figure gallery */
 
 figure {
