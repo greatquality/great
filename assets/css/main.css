@@ -4015,6 +4015,11 @@
      background: white;
 }
 
+.count {
+    margin: -4px 0;
+    padding: 0;
+    width: 16%;
+}
 @media screen and (max-width: 430px) {
 	#disqus_thread::after {
 	    background: white none repeat scroll 0 0;
