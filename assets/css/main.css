@@ -4015,6 +4015,9 @@
      background: white;
 }
 
+#jivo-label-copyright {
+	display: none;
+}
 .count {
     margin: -4px 0;
     padding: 0;
