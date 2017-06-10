@@ -3646,11 +3646,6 @@
 		opacity: 1;
 	}
 
-	.img-responsive {
-		width: 100%;
-    	height: auto;
-	}
-
 	.thumb {
 		width: 120px;
 		float: left;
@@ -3680,6 +3675,11 @@
 		font-style: italic;
 	}
 
+	.img-responsive {
+		width: 100%;
+    	height: auto;
+	}
+	
 	ul.post-list {
 		margin-left: -25px;
 	}
