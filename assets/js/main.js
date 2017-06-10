@@ -97,7 +97,7 @@
 
 	});
 
-/* formspree */
+/* formspree contact */
 var $contactForm = $('#contact-form');
 $contactForm.submit(function(e) {
 	e.preventDefault();
@@ -119,6 +119,33 @@ $contactForm.submit(function(e) {
 		}
 	});
 	$('#contact-form').each(function(){
+	    this.reset();
+	});
+
+});
+
+/* formspree order */
+var $orderForm = $('#order-form');
+$orderForm.submit(function(e) {
+	e.preventDefault();
+	$.ajax({
+		url: '//formspree.io/order@greatquality.id',
+		method: 'POST',
+		data: $(this).serialize(),
+		dataType: 'json',
+		beforeSend: function() {
+			$orderForm.append('<div class="alert alert--loading">Sending order…</div>');
+		},
+		success: function(data) {
+			$orderForm.find('.alert--loading').hide();
+			$orderForm.append('<div class="alert alert--success">Order sent!</div>');
+		},
+		error: function(err) {
+			$orderForm.find('.alert--loading').hide();
+			$orderForm.append('<div class="alert alert--error">Ops, there was an error.</div>');
+		}
+	});
+	$('#order-form').each(function(){
 	    this.reset();
 	});
 

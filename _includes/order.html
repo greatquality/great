@@ -1,0 +1,30 @@
+<section id="order" class="wrapper style5 special">
+	<div class="inner">
+			<h2>Order Benih Sekarang</h2>
+	<div class="row">
+		<div class="half">
+		<img src="{{ "" | absolute_url }}/assets/images/inpago_unsoed_1.png" class="order-product" alt="Benih cap Gunung Slamet" title="Benih cap Gunung Slamet" />
+		</div>
+		<div class="half">
+			<form id="order-form" action="//formspree.io/order@greatquality.id" method="post">
+				<input type="text" name="Nama" placeholder="Nama lengkap" required>
+				<input type="email" name="Email" placeholder="Email aktif" required>
+				<input type="text" name="Telp" placeholder="Nomor Telp/HP/WA" required>				
+				<select name="Kelas" required>
+					<option>Pilih Kelas Benih</option>
+					<option value="ES">Label Biru (ES)</option>
+					<option value="SS">Label Ungu (SS)</option>
+				</select>
+				<input type="text" name="Jumlah" placeholder="Jumlah pesanan dalam pack atau ton" required>
+				<textarea name="Keterangan" cols="30" rows="6" placeholder="Keterangan" required></textarea>
+				<!-- CONFIG -->
+				<input class="is-hidden" type="text" name="_gotcha">
+				<input type="hidden" name="_subject" value="order Great-Q Seed">
+				<input type="hidden" name="_cc" value="ide.munawar@gmail.com">
+				<!-- /CONFIG -->
+				<input class="submit button special" type="submit" value="Send">
+			</form>
+		</div>
+	</div>		
+	</div>
+</section>				

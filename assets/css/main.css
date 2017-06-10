@@ -1772,10 +1772,12 @@
 	input[type="email"],
 	select {
 		height: 2.75em;
+		margin: 4px 0;
 	}
 
 	textarea {
 		padding: 0.75em 1em;
+		margin: 4px 0;
 	}
 
 	input[type="checkbox"],
@@ -3662,6 +3664,15 @@
 		margin-right: auto;		
 	}
 
+	.order-product {
+		width: 350px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;		
+	}
+	#order .is-hidden {
+		display: none;
+	}
 	.caption {
 		bottom: 0;
 		text-align: center;
