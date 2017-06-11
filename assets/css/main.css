@@ -3651,7 +3651,16 @@
 		float: left;
 		margin-right: 20px;
 	}
-
+	.order-product {
+		width: 350px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;		
+	}
+	.img-responsive {
+		width: 100%;
+    	height: auto;
+	}
 	.product {
 		width: 200px;
 		display: block;
@@ -3659,12 +3668,6 @@
 		margin-right: auto;		
 	}
 
-	.order-product {
-		width: 350px;
-		display: block;
-		margin-left: auto;
-		margin-right: auto;		
-	}
 	#order .is-hidden {
 		display: none;
 	}
@@ -3675,11 +3678,6 @@
 		font-style: italic;
 	}
 
-	.img-responsive {
-		width: 100%;
-    	height: auto;
-	}
-	
 	ul.post-list {
 		margin-left: -25px;
 	}
