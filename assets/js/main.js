@@ -78,7 +78,7 @@
 				});
 
 		// Header.
-		/*	if (skel.vars.IEVersion < 9)
+			if (skel.vars.IEVersion < 9)
 				$header.removeClass('alt');
 
 			if ($banner.length > 0
@@ -94,7 +94,7 @@
 				});
 
 			}
-		*/
+
 	});
 
 /* formspree contact */
