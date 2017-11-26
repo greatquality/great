@@ -3431,10 +3431,10 @@
 	}
 
 		#banner .logo {
-		    left: 45%;
-		    position: absolute;
-		    top: 10%;
-		    width: 120px;
+			position: relative;
+			width: 120px;
+			margin: 20px auto;
+			display: block;
 		}
 
 		#banner h2 {
@@ -3592,33 +3592,25 @@
 
 		@media screen and (max-width: 640px) {
 			#banner .logo {
-			    left: 41%;
-			    position: absolute;
-			    top: 1%;
+			    width: 100px;
 			}
 		}
 
 		@media screen and (max-width: 480px) {
 			#banner .logo {
-			    left: 37%;
-			    position: absolute;
-			    top: 1%;
+			    width: 90px;
 			}
 		}
 
 		@media screen and (max-width: 360px) {
 			#banner .logo {
-			    left: 33%;
-			    position: absolute;
-			    top: 1%;
+			    width: 85px;
 			}
 		}
 
 		@media screen and (max-width: 320px) {
 			#banner .logo {
-			    left: 30%;
-			    position: absolute;
-			    top: 1%;
+			    width: 80px;
 			}
 		}
 
