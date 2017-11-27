@@ -3562,9 +3562,9 @@
 
 		@media screen and (max-width: 768px) {
 			#banner .logo {
-			    left: 41%;
-			    position: absolute;
-			    top: 25%;
+			    position: relative;
+			    display: block;
+			    margin: 0 auto;
 			}
 		}
 
