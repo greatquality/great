@@ -3409,7 +3409,7 @@
 
 /* Banner */
 
-	#banner {
+	#slideshow, #banner {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3430,6 +3430,7 @@
 		text-align: center;
 	}
 
+		#slideshow .logo,
 		#banner .logo {
 			position: relative;
 			width: 120px;
@@ -3437,6 +3438,7 @@
 			display: block;
 		}
 
+		#slideshow h2,
 		#banner h2 {
 			-moz-transform: scale(1);
 			-webkit-transform: scale(1);
@@ -3455,6 +3457,7 @@
 			text-transform: capitalize;
 		}
 
+			#slideshow h2:before, #slideshow h2:after,
 			#banner h2:before, #banner h2:after {
 				-moz-transition: width 0.85s ease;
 				-webkit-transition: width 0.85s ease;
@@ -3472,24 +3475,28 @@
 				width: 100%;
 			}
 
+			#slideshow h2:before,
 			#banner h2:before {
 				top: 0;
 				left: 0;
 			}
 
+			#slideshow h2:after,
 			#banner h2:after {
 				bottom: 0;
 				right: 0;
 			}
 
+		#slideshow p,
 		#banner p {
 			letter-spacing: 0.225em;
 		}
 
-			#banner p a {
+			#slideshow p a, #banner p a {
 				color: inherit;
 			}
 
+		#slideshow .more.
 		#banner .more {
 			-moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
 			-webkit-transition: -webkit-transform 0.75s ease, opacity 0.75s ease;
@@ -3521,6 +3528,7 @@
 			z-index: 1;
 		}
 
+			#slideshow .more:after,
 			#banner .more:after {
 				background-image: url("images/arrow.svg");
 				background-position: center;
@@ -3536,6 +3544,7 @@
 				width: 1.5em;
 			}
 
+		#slideshow:after,
 		#banner:after {
 			-moz-pointer-events: none;
 			-webkit-pointer-events: none;
@@ -3561,6 +3570,7 @@
 		}
 
 		@media screen and (max-width: 768px) {
+			#slideshow .logo,
 			#banner .logo {
 			    position: relative;
 			    display: block;
@@ -3570,20 +3580,24 @@
 
 		@media screen and (max-width: 736px) {
 
+			#slideshow, 
 			#banner {
 				padding: 7em 3em 5em 3em ;
 				height: auto;
 				min-height: 0;
 			}
 
+				#slideshow h2,
 				#banner h2 {
 					font-size: 1.25em;
 				}
 
+				#slideshow br,
 				#banner br {
 					display: none;
 				}
 
+				#slideshow .more,
 				#banner .more {
 					display: none;
 				}
@@ -3591,26 +3605,34 @@
 		}
 
 		@media screen and (max-width: 640px) {
+			#slideshow .logo,
 			#banner .logo {
 			    width: 100px;
+			    margin-bottom:10px;
 			}
 		}
 
 		@media screen and (max-width: 480px) {
+			#slideshow .logo,
 			#banner .logo {
 			    width: 90px;
+			    margin-bottom:10px;
 			}
 		}
 
 		@media screen and (max-width: 360px) {
+			#slideshow .logo,
 			#banner .logo {
 			    width: 85px;
+			    margin-bottom:10px;
 			}
 		}
 
 		@media screen and (max-width: 320px) {
+			#slideshow .logo,
 			#banner .logo {
 			    width: 80px;
+			    margin-bottom:10px; 
 			}
 		}
 
