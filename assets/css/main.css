@@ -3993,10 +3993,10 @@
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(250,250,250,0.5), rgba(0,0,0,0.5)), url("../../assets/images/sawah.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(250,250,250,0.5), rgba(0,0,0,0.5)), url("../../assets/images/sawah.jpg");
-		background-image: -ms-linear-gradient(top, rgba(250,250,250,0.5), rgba(0,0,0,0.5)), url("../../assets/images/sawah.jpg");
-		background-image: linear-gradient(top, rgba(250,250,250,0.5), rgba(0,0,0,0.5)), url("../../assets/images/sawah.jpg");
+		background-image: -moz-linear-gradient(top, rgba(154,164,191,0.5), rgba(0,0,0,0.8)), url("../../assets/images/sawah.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(154,164,191,0.5), rgba(0,0,0,0.8)), url("../../assets/images/sawah.jpg");
+		background-image: -ms-linear-gradient(top, rgba(154,164,191,0.5), rgba(0,0,0,0.8)), url("../../assets/images/sawah.jpg");
+		background-image: linear-gradient(top, rgba(154,164,191,0.5), rgba(0,0,0,0.8)), url("../../assets/images/sawah.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -4012,12 +4012,13 @@
 		background: none;
 	}
 
-	body.is-mobile.landing #banner,
+	body.is-mobile.landing #slideshow,
+	body.is-mobile.landing #banner,	
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../assets/images/sawah.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../assets/images/sawah.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../assets/images/sawah.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../assets/images/sawah.jpg");
+		background-image: -moz-linear-gradient(top, rgba(154,164,191,0.5), rgba(0,0,0,0.8)), url("../../assets/images/sawah.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(154,164,191,0.5), rgba(0,0,0,0.8)), url("../../assets/images/sawah.jpg");
+		background-image: -ms-linear-gradient(top, rgba(154,164,191,0.5), rgba(0,0,0,0.8)), url("../../assets/images/sawah.jpg");
+		background-image: linear-gradient(top, rgba(154,164,191,0.5), rgba(0,0,0,0.8)), url("../../assets/images/sawah.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
