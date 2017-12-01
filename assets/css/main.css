@@ -3409,7 +3409,8 @@
 
 /* Banner */
 
-	#slideshow, #banner {
+	#slideshow, 
+	#banner {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3492,7 +3493,8 @@
 			letter-spacing: 0.225em;
 		}
 
-			#slideshow p a, #banner p a {
+			#slideshow p a, 
+			#banner p a {
 				color: inherit;
 			}
 
