@@ -3,10 +3,10 @@ title: Great-Q Seed
 company: PB. Great Quality Seed
 slogan: Produsen dan penyedia benih berkualitas Inpago Unsoed 1
 logo: logo.png
-email: hello@greatquality.id
+email: hello@qseed.id
 description: Produsen dan penyedia benih berkualitas, inpago unsoed 1, benih unggul, benih padi, produksi tinggi, padi aromatik.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.greatquality.id" # the base hostname & protocol for your site
+url: "http://www.qseed.id" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -72,5 +72,5 @@ google_verify: YmlyiAKjdKXPMdwYMQJ6140tBMLW6-5tidL5-tMeqek
 author:
   name: Munawar
   picture: mun.jpg
-  email: munawar@greatquality.id
+  email: munawar@qseed.id
   description: Master Ilmu Tanaman, menggeluti bidang pemuliaan tanaman padi sejak menjadi mahasiswa di program studi Pemuliaan Tanaman Fakultas Pertanian Universitas Jenderal Sudirman Purwokerto. 
