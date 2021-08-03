@@ -6,7 +6,7 @@ logo: logo.png
 email: hello@greatquality.id
 description: Produsen dan penyedia benih berkualitas, inpago unsoed 1, inpago unsoed protani, parimas, protani, benih unggul, benih padi, produksi tinggi, padi aromatik.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.greatquality.id" # the base hostname & protocol for your site
+url: "https://www.greatquality.id" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
