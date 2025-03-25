@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/greatquality/great"
   spec.license       = "MIT"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
+  spec.files = Dir.glob("{lib,spec}/**/*") + ["README.md", "LICENSE.txt"]
 
   spec.add_development_dependency "jekyll", "~> 3.3"
-  spec.add_development_dependency "bundler", "~> 1.12"
+  spec.add_development_dependency "bundler", "~> 2.6"
 end
