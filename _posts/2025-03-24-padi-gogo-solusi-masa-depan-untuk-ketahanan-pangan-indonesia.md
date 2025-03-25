@@ -30,6 +30,7 @@ Tantangan: irigasi, alih fungsi lahan
 Intensitas tanam: tinggi, tetapi rentan banjir dan erosi
 
 **Lahan Kering**
+
 Luas: 12 juta hektare
 
 Tantangan: kesuburan rendah, minim irigasi
@@ -39,6 +40,7 @@ Potensi: cocok untuk padi gogo dan tanaman hortikultura
 Pemanfaatan lahan kering untuk budidaya padi gogo akan mengurangi ketergantungan pada lahan sawah dan memperluas produksi pangan secara berkelanjutan.
 
 Keunggulan Padi Gogo untuk Lahan Kering
+
 **Tahan Kekeringan**
 
 Padi gogo memiliki kemampuan adaptasi tinggi di lingkungan dengan curah hujan rendah dan minim irigasi.
