@@ -21,7 +21,7 @@ Fokus Great-Q Seed mengembangkan benih padi berkualitas dengan terlibat langsung
 {:.tofigure}
 Proses produksi benih juga melibatkan para petani dan kelompok tani untuk memudahkan pengenalan benih baru. Tujuan ini selain memproduksi benih juga memberikan pendampingan dan alih teknologi baru kepada para petani. Beberapa kelompok tani dan gabungan kelompok tani yang sudah bekerja sama untuk produksi benih antara lain P4S Sidorejo Desa Rejosari Kecamatan Kemiri Kabupaten Purworejo, Kelompok Tani Rukun Tani Desa Gandrungmanis Kecamatan Gandrungmangu Kabupaten Cilacap, Kelompok Tani Warga Nol Lima Desa Banjarparakan Kecamatan Rawalo Kabupaten Banyumas, Gapoktan Sri Waluyo Tani Desa Karangtengah Kecamatan Kemangkon Kabupaten Purbalingga.
 
-![Benih Cap Gunung Slamet](/assets/images/benih_protani.png "Benih Cap Gunung Slamet")
+![Benih Cap Gunung Slamet](/assets/images/benih_unsoed_protani.png "Benih Cap Gunung Slamet")
 {:.tofigure}
 
 Great-Q Seed memasuki pasar benih padi dengan membawa brand **"Cap Gunung Slamet"**. Brand ini telah memudahkan benih padi diingat oleh petani dan dimana benih ini dihasilkan. Gunung Slamet sebagai ciri khas benih berkualitas tinggi, pengawasan ketat untuk menjaga kemurnian dan viabilitasnya.
