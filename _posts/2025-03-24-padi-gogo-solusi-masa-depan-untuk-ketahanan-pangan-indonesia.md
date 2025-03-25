@@ -22,7 +22,9 @@ Lahan Sawah vs. Lahan Kering: Potensi dan Tantangan
 Saat ini, luas lahan sawah di Indonesia sekitar 7,5 juta hektare, tetapi ketersediaannya terus berkurang akibat urbanisasi dan degradasi tanah. Sebaliknya, lahan kering yang luasnya mencapai 12 juta hektare memiliki potensi besar jika dioptimalkan dengan teknologi pertanian yang tepat.
 
 Perbandingan:
+
 **Lahan Sawah**
+
 Luas: 7,5 juta hektare
 
 Tantangan: irigasi, alih fungsi lahan
