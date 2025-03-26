@@ -1,5 +1,5 @@
 ---
-title: 'Panen Bersama Benih Padi Unggul: PT Great Quality Seed Gandeng Kelompok Tani Margo Mulyo'
+title: 'Panen Bersama Benih Padi Inpago Protani: PT Great Quality Seed Gandeng Kelompok Tani Margo Mulyo'
 layout: post
 category: Artikel
 description: PT Great Quality Seed bersama Kelompok Tani Margo Mulyo menggelar panen bersama benih padi unggul INPAGO UNSOED PROTANI di Desa Lubangsampang, Purworejo. Kolaborasi ini membuktikan bahwa penggunaan benih berkualitas dan teknologi pertanian modern dapat meningkatkan hasil panen secara signifikan.
