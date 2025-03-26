@@ -24,7 +24,7 @@ Acara ini merupakan hasil kerja sama antara PT Great Quality Seed dan petani set
 Perwakilan PT Great Quality Seed, Waluyo Sutopo menyampaikan apresiasi kepada petani yang telah bekerja keras selama masa budidaya. "Kolaborasi ini membuktikan bahwa benih unggul, jika didukung dengan teknik budidaya yang tepat, dapat meningkatkan hasil panen secara signifikan. Kami berharap kerja sama ini dapat terus berlanjut untuk mendukung ketahanan pangan nasional," ujar perwakilan perusahaan dalam sambutannya.
 
 ### Keunggulan Benih INPAGO UNSOED PROTANI
-Benih UNSEOD PROTANI yang digunakan dalam program ini memiliki beberapa keunggulan, di antaranya:
+Benih INPAGO UNSOED PROTANI yang digunakan dalam program ini memiliki beberapa keunggulan, di antaranya:
 
 * Potensi produksi  9-10 ton/ha di sawah dan 7 ton/ha di ladang
 * Daya tumbuh tinggi dengan anakan produktif lebih banyak.
