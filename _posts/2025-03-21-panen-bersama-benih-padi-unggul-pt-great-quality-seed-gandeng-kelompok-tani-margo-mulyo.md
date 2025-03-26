@@ -19,7 +19,7 @@ tags:
 Suasana penuh rasa syukur menyelimuti hamparan sawah Desa Lubangsampang, Kecamatan Butuh, Kabupaten Purworejo. PT Great Quality Seed bersama Kelompok Tani Margo Mulyo menggelar "Syukuran Panen Bersama" untuk program penangkaran benih padi unggul INPAGO UNSOED PROTANI.
 
 ### Panen Bersama: Bukti Kolaborasi untuk Pertanian Berkualitas
-Acara ini merupakan hasil kerja sama antara PT Great Quality Seed dan petani setempat dalam mengembangkan benih padi berkualitas tinggi. Dengan menggunakan benih unggul UNSEOD PROTANI serta penerapan teknologi pertanian modern, hasil panen yang didapatkan menunjukkan produktivitas yang optimal.
+Acara ini merupakan hasil kerja sama antara PT Great Quality Seed dan petani setempat dalam mengembangkan benih padi berkualitas tinggi. Dengan menggunakan benih unggul INPAGO UNSOED PROTANI serta penerapan teknologi pertanian modern, hasil panen yang didapatkan menunjukkan produktivitas yang optimal.
 
 Perwakilan PT Great Quality Seed, Waluyo Sutopo menyampaikan apresiasi kepada petani yang telah bekerja keras selama masa budidaya. "Kolaborasi ini membuktikan bahwa benih unggul, jika didukung dengan teknik budidaya yang tepat, dapat meningkatkan hasil panen secara signifikan. Kami berharap kerja sama ini dapat terus berlanjut untuk mendukung ketahanan pangan nasional," ujar perwakilan perusahaan dalam sambutannya.
 
