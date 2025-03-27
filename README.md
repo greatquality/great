@@ -1,3 +1,3 @@
-# PB. Great Quality Seed
+# PT. Great Quality Seed
 
-Produsen dan penyedia benih padi berkualitas, terjaga kemurnian dan viabilitasnya.
+Produsen dan penyedia benih berkualitas, terjaga kemurnian dan viabilitasnya.
