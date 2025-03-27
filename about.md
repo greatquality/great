@@ -13,7 +13,7 @@ tags:
 - cap gunung slamet
 ---
 
-PT. Great Quality Seed (Great-Q Seed) merupakan perusahaan produsen benih padi yang didirikan di Purwokerto. Sejak tahun 2016 telah mengembangkan dan memproduksi benih spesifik untuk mendukung Indonesia sebagai lumbung pangan dunia di tahun 2022. 
+PT. Great Quality Seed (Great-Q Seed) merupakan perusahaan produsen benih padi yang didirikan di Purwokerto. Sejak tahun 2016 telah mengembangkan dan memproduksi benih spesifik untuk mendukung Indonesia sebagai lumbung pangan dunia di tahun 2045. 
 
 Fokus Great-Q Seed mengembangkan benih padi berkualitas dengan terlibat langsung dalam pengembangan varietas unggul baru. Great-Q Seed bekerja sama dengan tim pemuliaan tanaman padi Fakultas Pertanian Universitas Jenderal Sudirman Purwokerto untuk menghasilkan benih padi berkualitas dan terjaga kemurniaanya. 
 
