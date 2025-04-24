@@ -32,9 +32,7 @@ jekyll-archives:
     - tags
   layout: 'archive'
   permalinks:
-    # year: '/:year/'
-    # month: '/:year/:month/'
-    # day: '/:year/:month/:day/'
+    artikel/:title
     tag: '/archive/tag/:name/'
     category: '/archive/category/:name/'
 
