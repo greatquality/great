@@ -29,5 +29,5 @@ Great-Q Seed memasuki pasar benih padi dengan membawa brand **"Cap Gunung Slamet
 
 **PT. Great Quality Seed**
 Jl. Wiryo Dihardjo 13 Purwokerto - Jawa Tengah
-Tel./WA. 0889 9428 1429
+Tel./WA. +62 8222 0175 779
 Email. hello@greatquality.id
